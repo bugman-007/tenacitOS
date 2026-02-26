@@ -80,7 +80,7 @@ The app uses `OPENCLAW_DIR` to locate `openclaw.json` and all workspaces. **No m
 
 ```bash
 cd /root/.openclaw/workspace   # or your OPENCLAW_DIR/workspace
-git clone https://github.com/carlosazaustre/tenacitOS.git mission-control
+git clone https://github.com/bugman-007/tenacitOS.git mission-control
 cd mission-control
 npm install
 ```
